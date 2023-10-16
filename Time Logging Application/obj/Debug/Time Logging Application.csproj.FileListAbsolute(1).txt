@@ -1,0 +1,41 @@
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\Time Logging Application.exe.config
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\Time Logging Application.exe
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\Time Logging Application.pdb
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application.csproj.AssemblyReference.cache
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\MainWindow.g.cs
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\App.g.cs
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application_MarkupCompile.cache
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application_MarkupCompile.lref
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\MainWindow.baml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application.g.resources
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time_Logging_Application.Properties.Resources.resources
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application.csproj.GenerateResource.cache
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application.csproj.CoreCompileInputs.cache
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application.exe
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application.pdb
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\registrationWindow.g.cs
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\registrationWindow.baml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\MySql.Data.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Memory.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Buffers.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\MySql.Data.xml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Time Logging Application.csproj.CopyComplete
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\LoginScreen.g.cs
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\LoginScreen.baml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\UserWindow.g.cs
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\UserWindow.baml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\BCrypt.Net.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\obj\Debug\App.baml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Buffers.xml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Memory.xml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Louise Domingo\Documents\C# Projects\TechnicalExam\Time Logging Application\Time Logging Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
