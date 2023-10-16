@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Logging Application", "Time Logging Application\Time Logging Application.csproj", "{A2120A1A-A0E5-4C25-96E2-162179A4CC9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{FDE0AE7C-6A9C-4899-B372-667BDE8E84F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2120A1A-A0E5-4C25-96E2-162179A4CC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2120A1A-A0E5-4C25-96E2-162179A4CC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2120A1A-A0E5-4C25-96E2-162179A4CC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2120A1A-A0E5-4C25-96E2-162179A4CC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE7598A-563B-4EC9-9A09-F6537895FC53}
+	EndGlobalSection
+EndGlobal
